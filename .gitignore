@@ -1,9 +1,6 @@
 crawler/
 *.xlsx
 test.py
-*/__pycache__
-*/__pycache__/
-/__pycache__
-
-*/.DS_Store
+__pycache__/
+old_data/
 .DS_Store
